@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Exercicio4</title>
+    </head>
+
+
+
+    <body>
+        <table>
+            <thead>
+                <tr>
+                    <td>Estado</td>
+                    <td>Cidade</td>
+                    <td>População</td>
+                </tr>
+            </thead>
+        </table>
+
+
+    </body>
+</html>
