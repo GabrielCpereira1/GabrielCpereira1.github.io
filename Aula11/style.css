@@ -1,0 +1,26 @@
+h1 {
+                color: green;
+                text-decoration: overline;
+                text-decoration-color: green;
+                text-decoration-thickness: 5px;
+                font-family: serif;
+            }
+            h2 {
+                font-family: monospace;
+                color: rgb(253, 72, 72);
+                text-decoration: underline;
+            }
+            h3 {
+                font-family: fantasy;
+                color: rgb(18, 180, 180);
+                text-decoration: line-through;
+            }
+            h4 {
+                color: rgb(185, 110, 255);
+                text-decoration: overline underline;
+            }
+            p {
+                font-family: cursive;
+                color: rgb(253, 182, 76);
+                background-color: blueviolet;
+            }
